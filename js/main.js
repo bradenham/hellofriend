@@ -18,7 +18,7 @@ function toggleFullScreen() {
 //document.body.addEventListener("click", toggleFullScreen);
 
 
-const string = ['Hello^2000, friend.', 'Can we talk?', 'Will you be honest?', 'Do you promise?', 'Do you like flowers?', 'Have you been outside today?', 'Are you in a relationship?', 'Is red your favorite color?', 'Is the key in the room?', 'Do you scream when startled?', 'Do you live alone?', 'Do you have a pet?', 'Have you ever cried during sex?', 'Is it cold there?', 'Would anyone hear you if you screamed?', 'Are you being honest?', 'Are you sure?', 'Do you enjoy Evanston?', 'Have you been there long?', 'Do you believe in ghosts?', "Do you think I'm a ghost?", 'Does that scare you?', 'Are you being honest?', 'Would you lie to me?', 'Do you want to know how you will die?', 'Fright'];
+const string = ['Hello^2000, friend.', 'Can we talk?', 'Will you be honest?', 'Do you promise?', 'Do you like flowers?', 'Have you been outside today?', 'Are you in a relationship?', 'Is red your favorite color?', 'Is the key in the room?', 'Do you scream when startled?', 'Do you live alone?', 'Do you have a pet?', 'Have you ever cried during sex?', 'Is it cold there?', 'Would anyone hear you if you screamed?', 'Are you being honest?', 'Are you sure?', 'Do you enjoy Evanston?', 'Have you been there long?', 'Do you believe in ghosts?', "Do you think I'm a ghost?", 'Does that scare you?', 'Are you being honest?', 'Would you lie to me?', 'Do you want to know how you will die?', '^3000Fright.'];
 let index = 0;
 
 var typed = new Typed('#typed', {
